@@ -1,0 +1,26 @@
+.btn-test{
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
+mat-form-field,input{
+  width: 100%;
+  height: auto;
+}
+
+mat-card{
+  padding:20px 40px;
+}
+
+input[type="file"]{
+  visibility: hidden;
+}
+
+.image-preview{
+  height: 5rem;
+  margin: 1rem 0;
+}
+
+.image-preview img{
+  height: 100%;
+}

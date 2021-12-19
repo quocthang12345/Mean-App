@@ -1,0 +1,6 @@
+{
+    "env":{
+        "MONGO_PWD":"kJhLV7nzrDjdWQV",
+        "JWT_KEY":"angular_app_secret_key"
+    }
+}
